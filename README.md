@@ -1,6 +1,6 @@
-### Some knockledge
+## What's about me?
+Nothing special, nothing to tell. Yes one things, im a beginner.
 
-<p align="left">
-  <a href="https://www.python.org/" target="_blank_" rel="noreferre">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" </a>
-</p>
+## Some knowledge
+
+[![Some knowledge](https://skillicons.dev/icons?i=css,html,bash,python,linux,markdown&theme=dark)](https://skillcons.dev/)
