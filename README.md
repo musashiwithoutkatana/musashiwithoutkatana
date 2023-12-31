@@ -1,5 +1,5 @@
 ## What's about me?
-Nothing special, nothing to tell. Yes one things, im a beginner.
+Nothing special, nothing to tell yet, im only a beginner and i love music.
 
 ## Some knowledge
 
